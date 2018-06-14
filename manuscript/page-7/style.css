@@ -1,0 +1,9 @@
+.right {
+	float: right;
+}
+.bottom {
+	position: absolute;
+	bottom: 5vh;
+	width: 100%;
+	font-size: 80%;
+}
